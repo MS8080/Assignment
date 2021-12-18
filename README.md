@@ -1,6 +1,6 @@
 # Module-2 Coding Assignment
 
-Coursera course: HTML, CSS, and Javascript for Web Developers
+Week 2: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE]index.html 
+#  [CLICK HERE]https://ms8080.github.io/Assignment2
 
